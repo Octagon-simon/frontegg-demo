@@ -24,7 +24,7 @@ $ npm install
 Once the dependencies are installed, run the command below to fire up the server
 
 ```bash
-$ npm run vite
+$ npm run dev
 ```
 
 ## 📗 READ THE ARTICLE
