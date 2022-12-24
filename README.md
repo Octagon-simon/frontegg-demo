@@ -11,8 +11,8 @@ It also contains user management features such as profile management, roles, per
 Create an `.env` file on the project root and configure the parameters below
 
 ```bash
-VITE_BASE_URL = "YOUR_BASE_URL"
-VITE_CLIENT_ID = "YOUR_CLIENT_ID"
+VITE_BASE_URL = YOUR_BASE_URL
+VITE_CLIENT_ID = YOUR_CLIENT_ID
 ```
 
 Now install the dependencies by running the command below on your terminal
